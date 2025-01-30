@@ -603,7 +603,7 @@ section,
 }
 
 
-.about .content ul strong {
+.about .content ul {
   margin-right: 10px;
 }
 
@@ -947,11 +947,16 @@ section,
 }
 
 .portfolio-details .portfolio-info h3 {
+  color: teal;
   font-size: 22px;
   font-weight: 700;
   margin-bottom: 20px;
   padding-bottom: 20px;
   border-bottom: 1px solid color-mix(in srgb, var(--default-color), transparent 85%);
+}
+
+.portfolio-details .portfolio-info ul strong {
+  color: skyblue;
 }
 
 .portfolio-details .portfolio-info ul {
