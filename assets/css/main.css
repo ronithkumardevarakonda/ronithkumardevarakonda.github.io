@@ -925,6 +925,10 @@ section,
   width: 100%;
 }
 
+.portfolio-details .portfolio-details-slider video {
+  width: 100%;
+}
+
 .portfolio-details .portfolio-details-slider .swiper-pagination {
   margin-top: 20px;
   position: relative;
